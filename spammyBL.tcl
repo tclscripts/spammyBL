@@ -92,7 +92,7 @@ setudef flag nospammy.xonly
 
 ###
 # SpammyList database file
-set spammy(black_file) "scripts/freenode_black.txt"
+set spammy(black_file) "scripts/spammyBL.txt"
 if {![file exists $spammy(black_file)]} {
 	set file [open $spammy(black_file) w]
 	close $file
@@ -100,7 +100,7 @@ if {![file exists $spammy(black_file)]} {
 
 ###
 # SpammyList counter file
-set spammy(count_file) "scripts/freenode_counter.txt"
+set spammy(count_file) "scripts/spammyBL_counter.txt"
 if {![file exists $spammy(count_file)]} {
 	set file [open $spammy(count_file) w]
 	close $file
