@@ -48,25 +48,6 @@
 ##								            ##
 ##  !set [+|-]nospammy.xonly - activate/deactivate X ban support.          ##     
 ##                                                                         ##
-#############################################################################
-##								            ##
-##  PERSONAL AND NON-COMMERCIAL USE LIMITATION.                            ##
-##                                                                         ##
-##  This program is provided on an "as is" and "as available" basis,       ##
-##  with ABSOLUTELY NO WARRANTY. Use it at your own risk.                  ##
-##                                                                         ##
-##  Use this code for personal and NON-COMMERCIAL purposes ONLY.           ##
-##                                                                         ##
-##  Unless otherwise specified, YOU SHALL NOT copy, reproduce, sublicense, ##
-##  distribute, disclose, create derivatives, in any way ANY PART OF       ##
-##  THIS CONTENT, nor sell or offer it for sale.                           ##
-##                                                                         ##
-##  You will NOT take and/or use any screenshots of this source code for   ##
-##  any purpose without the express written consent or knowledge of author.##
-##                                                                         ##
-##  You may NOT alter or remove any trademark, copyright or other notice   ##
-##  from this source code.                                                 ##
-##                                                                         ##
 ##              Copyright 2008 - 2018 @ WwW.TCLScripts.NET                 ##
 ##                                                                         ##
 ## ** based on ideas picked & sugested by psycho@undernet.org              ##
