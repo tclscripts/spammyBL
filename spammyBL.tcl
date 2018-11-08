@@ -205,7 +205,7 @@ if {$check_valid < 0} {
 	return 0
 }
 	set counter [spammy:incr:count]
-if {[channel get $chan nospammy.xonly] && [onchan "X" $chan] && [botisvoice $chan]} {
+if {[channel get $chan nospammy.xonly] && [onchan "X" $chan]} {
 	putquick "PRIVMSG X :ban $chan *!*@$host $spammy(xban_time) $spammy(breason) - $counter -"
 } else {
 	putquick "MODE $chan +b $host"
