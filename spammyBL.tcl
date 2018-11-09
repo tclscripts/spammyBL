@@ -27,7 +27,7 @@
 ##  DESCRIPTION: 						            ##
 ##  + scans only nicknames having ~ in their idents & only if their        ##
 ##    nickname coincides with their ident.                                 ##
-##  + bans only if user sends the spam message within 20 seconds of join.  ##
+##  + bans only if user sends the spam message within 20 seconds from join. ##
 ##  + also stores a list with all the spam IPs found.                      ##
 ##								            ##
 #############################################################################
